@@ -32,7 +32,7 @@ El script automatiza las optimizaciones más efectivas sin necesidad de instalar
 
 ---
 
-## 🛠️ ¿Qué es lo que hace exactamente?
+##  ¿Qué es lo que hace exactamente?
 
 Para los curiosos o usuarios avanzados, aquí están los cambios técnicos:
 
